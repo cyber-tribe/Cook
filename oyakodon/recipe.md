@@ -1,3 +1,4 @@
+``` plantuml
 @startuml
 title 旧記法
 
@@ -37,3 +38,4 @@ end fork
 stop
 
 @enduml
+```
