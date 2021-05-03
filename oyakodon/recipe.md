@@ -1,6 +1,6 @@
 ``` plantuml
 @startuml
-title 旧記法
+title 【親子丼】
 
 start
 
